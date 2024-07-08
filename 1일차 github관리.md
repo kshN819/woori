@@ -3,5 +3,6 @@
 -       파이썬 설치 및 환경설정, VScode 설치 및 환경설정 수행
 -       git설치 및 생성 수행
 -       이미지 생성  (https://imgur.com/)
+-       테이블 생성 (https://www.tablesgenerator.com/markdown_tables)
 -       마크다운 생성
 - 배운점: 한글 폴더나 파일명은 지양
