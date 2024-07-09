@@ -1,9 +1,10 @@
+<--Header-->
 **사실**:</br> 
           + 파이썬 인터프리터 언어,</br>
           + 변수명명 str, int, float, bool</br>
           + 문자열 string (문자열 이스케이프(\b,\t,\n), 사칙연산, 비교연산,,,</br>
           + 시퀀스 타입</br>
-                    + list -> []</br>
+                    >>>> + list -> []</br>
                     + tuple -> ()</br>
                     - range -> range(stop) //range(start,stop,step) 시작점, 끝점+1, 몇칸씩 건너뛸지(step)</br>
                               * 공통연산자 </br>
