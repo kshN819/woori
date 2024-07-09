@@ -1,4 +1,5 @@
 <Header>
+          
 **사실**:</Header>           
           + 파이썬 인터프리터 언어,</br>
           + 변수명명 str, int, float, bool</br>
